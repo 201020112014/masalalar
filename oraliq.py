@@ -143,9 +143,7 @@ print(min(son))
 
 
 
-#5
-son = [1, 5, 2, 8, 3, 7]
-
+sonlar = [1, 5, 2, 8, 3, 7]
 if son%2==0:
     print(son)
 
